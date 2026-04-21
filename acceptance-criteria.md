@@ -1,0 +1,4 @@
+- No indicator for normal meetings.
+- Indicator appears for a day with a non-negotiable event
+- Indicator updates in real time
+- Indicator does not break existing calendar interactions
